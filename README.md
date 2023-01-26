@@ -10,7 +10,7 @@ Simplifiación de la implementación de JSON Web Token, basada en la especificac
  
  @author      trystan4861
  
- @license     https://github.com/Trystan4861/php-JSONWebToken/blob/main/LICENSE 3-clause BSD
+ @license     https://github.com/Trystan4861/php-JSONWebToken-JWT/blob/main/LICENSE 3-clause BSD
 
  @version     v1.0
 ************************************************************************************
