@@ -1,4 +1,4 @@
-# php-JSONWebToken
+# php-JSONWebToken-JWT
 
 Simplifiación de la implementación de JSON Web Token, basada en la especificación https://tools.ietf.org/html/rfc7519 realizada por Neuman Vong y Anant Narayanan
 
